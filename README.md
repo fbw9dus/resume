@@ -1,6 +1,6 @@
 # Profil-Seite
 
-![layout](drafts/iPhone 8.png "Portfolio Seite")
+![layout](drafts/iPhone.png "Portfolio Seite")
 
 - Seite nur für mobile
 - meta Tag für die korrekte Skalierung auf Handys benutzen:
