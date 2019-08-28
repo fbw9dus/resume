@@ -15,5 +15,9 @@
   - Sollen in einem neuen Tab öffnen
   
 - Foto, das im Kreis dargestellt wird, mit border-radius
-  - verlinkt auf den Abschnitt mit persönlichen Daten
 - Navigation zu den Abschnitten mit Hash-Links
+- Bilder im Portfolio sollen verlinkt sein
+
+## Anforderungen für den Code
+- Keine Block-Tags in Inline-Tags
+- Padding in den Links der Hauptnavigation
