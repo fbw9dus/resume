@@ -8,11 +8,11 @@
 ### Responsive
 - Achte darauf, dass die mobile Version bei den folgenden Änderungen nicht negativ beeinflusst wird.
 - Verwende den Breakpoint für mittelgroße Geräte aus der [Bootstrap-Dokumentation](https://getbootstrap.com/docs/4.3/layout/overview/#responsive-breakpoints)
-#### Definiere in diesem media query:
-- Hover-Effekte für alle Links
-- Die Links der Hauptnavigation sollen nebeneinander stehen, nicht untereinander
-- Die Links sollen in Großbuchstaben geschrieben sein
-- Verwende eine Mindestbreite für das Haupt-Element der Seite, so dass der Inhalt bei großem Browserfenster nicht zu breit werden kann.
+  #### Definiere in diesem media query:
+  - Hover-Effekte für alle Links
+  - Die Links der Hauptnavigation sollen nebeneinander stehen, nicht untereinander
+  - Die Links sollen in Großbuchstaben geschrieben sein
+  - Verwende eine Mindestbreite für das Haupt-Element der Seite, so dass der Inhalt bei großem Browserfenster nicht zu breit werden kann.
 ### Skalierung
 - Verwende width:100vw und box-sizing:border-box für Elemente, die die ganze Fensterbreite ausfüllen sollen und dieses Verhalten noch nicht durch display:block haben.
 - Verwende rem für Container-Größen und Text-Größen
